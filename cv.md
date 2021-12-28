@@ -9,7 +9,7 @@
 > I'm looking for new knowledge about frontend in order to expand my boundaries...
 
 ## Skills 
-### Tols and technologies
+### Tools and technologies
 * PHP
 * HTML
 * Javascript
