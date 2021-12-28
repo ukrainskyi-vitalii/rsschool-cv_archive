@@ -30,7 +30,7 @@ function multiply(a, b) {
 }
 ```
 ## Experience
-* RS School: [CV#1. Markdown & Git](https://github.com/ukrainskyi-vitalii/cv-test/tree/gh-pages)
+* RS School: [CV#1. Markdown & Git](https://github.com/ukrainskyi-vitalii/rsschool-cv/tree/gh-pages)
 
 ## Education
 ##### East Ukrainian National University
